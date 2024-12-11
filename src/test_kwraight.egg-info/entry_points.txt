@@ -1,2 +1,0 @@
-[console_scripts]
-inaminute = inaminute.__main__:main
