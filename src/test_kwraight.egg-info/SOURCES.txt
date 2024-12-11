@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+src/inaminute/__init__.py
+src/inaminute/__main__.py
+src/inaminute/delay.py
+src/test_kwraight.egg-info/PKG-INFO
+src/test_kwraight.egg-info/SOURCES.txt
+src/test_kwraight.egg-info/dependency_links.txt
+src/test_kwraight.egg-info/entry_points.txt
+src/test_kwraight.egg-info/requires.txt
+src/test_kwraight.egg-info/top_level.txt
+tests/test_feed.py
+tests/test_viewer.py
